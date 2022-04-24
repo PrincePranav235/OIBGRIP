@@ -2,5 +2,5 @@
 
 
 ## lEVEL 2 :-><br>
-IT CONSIST OF ALL THE THREE TASK OF LEVEL 2
-1.CALCULATOR &nbsp; 2. Tribute Page &nsbp; 3. To Do App
+IT CONSIST OF ALL THE THREE TASK OF LEVEL 2<br>
+1.Calculator &nbsp; 2. Tribute Page &nbsp; 3. To Do App
